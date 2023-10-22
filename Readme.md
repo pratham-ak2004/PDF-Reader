@@ -21,7 +21,7 @@ To run this project, you will need a `python evnironment` with `jupyter` install
 
 The required environment can be set using terminal itself. 
 
-Check python instlled in you setup.
+Check python installed in you setup.
 Note: this step can be skipped.
 
 ```bash
@@ -39,7 +39,7 @@ You can also create specific environment by mentioning the python path.
 python_path -m venv env_name_
 ```
 
-Install the necesary libraries using pip.
+Install the necessary libraries using pip.
 
 ```bash
 pip install PyPDF2
